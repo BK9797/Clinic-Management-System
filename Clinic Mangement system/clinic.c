@@ -113,6 +113,7 @@ void modes()
     	        }
     	        }
     	        printf("\nLoading,the system is updating...\n\n");
+	        return;
     	    }
 
     	    else if(Mode==2)
