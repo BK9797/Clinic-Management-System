@@ -1,6 +1,6 @@
 # Clinic-Management-System
 
-# Admin Mode
+#Admin Mode
 In admin mode, you can perform the following actions:
 
 1.Login: Enter the default password (1234) to access admin features.
