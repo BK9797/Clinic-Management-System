@@ -13,14 +13,14 @@ In admin mode, you can perform the following actions:
 
 5.Cancel Reservation: Cancel a reserved slot with patient ID.
 
-# User Mode
+## User Mode
 In user mode, you can perform the following actions:
 
 1.View Patient Record: Enter the patient ID to view their basic information.
 
 2.View Today’s Reservations: Display a list of reservations, showing patient IDs and reserved time slots.
 
-# Notes
+## Notes:
 1.The admin password is set to the default value: 1234.
 
 2.The system allows 3 attempts for entering the correct admin password.
