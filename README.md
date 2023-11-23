@@ -27,4 +27,4 @@ In user mode, you can perform the following actions:
 
 3.Time slots for reservations: 2pm-2:30pm, 2:30pm-3pm, 3pm-3:30pm, 4pm-4:30pm, 4:30pm-5pm.
 
-4.Reservations are exclusive; once a slot is reserved: it won't be available for other patients.
+4.Reservations are exclusive; once a slot is reserved, it won't be available for other patients.
